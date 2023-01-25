@@ -1,2 +1,2 @@
 # epamGit
-stady Git from EPAM learns
+stady Git 
